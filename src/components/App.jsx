@@ -1,7 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
 export default function App() {
   return (
-    <div>Keeper App</div>
+    <div>
+      <Header />
+    </div>
   )
 }
