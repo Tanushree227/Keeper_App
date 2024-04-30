@@ -7,7 +7,7 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: #f1f2f6;
   padding: 0 16px;
 }
 
@@ -33,7 +33,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #829cbc;
 }
 .note {
   background: #fff;
